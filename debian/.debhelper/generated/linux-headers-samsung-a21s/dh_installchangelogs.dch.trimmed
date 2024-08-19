@@ -1,0 +1,8 @@
+linux-android-samsung-a21s (0.0.0+git20240804131915.79f285c.droidian) trixie; urgency=medium
+
+  * Set Initial values for kernel-info.mk
+  * Import SM-A217F upstreamed kernel, history will be added later
+  * Remove wlbtd changes and fix Treble setting
+  * Add halium compliant config
+
+ -- RiskyGUY22 <thomas_turner@talktalk.net>  Sun, 04 Aug 2024 14:19:15 +0100

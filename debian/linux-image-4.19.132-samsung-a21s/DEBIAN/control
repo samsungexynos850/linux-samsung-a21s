@@ -1,0 +1,14 @@
+Package: linux-image-4.19.132-samsung-a21s
+Source: linux-android-samsung-a21s
+Version: 0.0.0+git20240804131915.79f285c.droidian
+Architecture: arm64
+Maintainer: Droidian porters <info@droidian.org>
+Installed-Size: 36245
+Section: kernel
+Priority: optional
+Description: Linux kernel for Samsung Galaxy A21s
+ This package contains the Linux kernel for the Samsung Galaxy A21s device.
+ .
+ Note: This package only ships the kernel image and modules, you should probably
+ look at the linux-bootimage-4.19.132-samsung-a21s package for a bootimage suitable
+ for Android boot loaders.

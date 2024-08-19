@@ -1,0 +1,4 @@
+9c6bcdf2bf505b5c280859f6620fd2b2  boot/boot.img-4.19.132-samsung-a21s
+8272683ea8bb5e2af85c72ae9ed453a9  boot/recovery.img-4.19.132-samsung-a21s
+a88ba217da177b0b4483fcfbf9ba132f  lib/flash-bootimage/4.19.132-samsung-a21s.conf
+e1308c978c7a381940ac256781765ee7  usr/share/doc/linux-bootimage-4.19.132-samsung-a21s/changelog.gz
